@@ -1,6 +1,11 @@
 ![Header](https://github.com/Jacqquard/Jacqquard/blob/main/assets/header.jpg)
 <br>
 <div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jacqquard&theme=github_dark)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&border_radius=0" alt="GitHub Streak" />
+  </a>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,10 +22,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jacqquard&theme=github_dark)
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&border_radius=0" alt="GitHub Streak" />
-  </a>
 </div>
