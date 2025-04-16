@@ -4,7 +4,7 @@
   
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
