@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   
-[![](https://raw.githubusercontent.com/Jacquard/github-profile-summary-cards/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&border_radius=0" alt="GitHub Streak" />
   </a>
