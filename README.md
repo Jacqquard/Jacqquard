@@ -2,7 +2,7 @@
 <br>
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jacqquard&theme=github_dark)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&border_radius=0" alt="GitHub Streak" />
   </a>
