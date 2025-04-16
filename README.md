@@ -15,4 +15,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&border_radius=0)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&border_radius=0" alt="GitHub Streak" />
+  </a>
+</div>
