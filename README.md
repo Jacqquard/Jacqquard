@@ -22,6 +22,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jacqquard&theme=github_dark)
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&border_radius=0" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
