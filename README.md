@@ -3,9 +3,9 @@
 <div align="center">
   
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/highcontrast/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Jacqquard&theme=highcontrast&border_radius=0&hide_border=true" alt="GitHub Streak" />
+</a>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
