@@ -15,7 +15,7 @@
 
 <p align="center">
   <span style="color: #b0b0b0; font-size: 18px;">
-    Python-разработчик | Парсинг | Автоматизация | Веб-разработка
+    Cpp-developer | Analysis | Automation | Software Developer
   </span>
 </p>
 
