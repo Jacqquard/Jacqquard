@@ -24,8 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=Jacqquard&color=1a1a1a&style=for-the-badge&labelColor=FFAE00" alt="Просмотры профиля"/>
 </p>
 
----
-
 ## 💻 About me
 
 ```python
