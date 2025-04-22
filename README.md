@@ -26,7 +26,7 @@
 
 ## 💻 About me
 
-```python
+```cpp
 #include <iostream>
 #include <string>
 #include <map>
