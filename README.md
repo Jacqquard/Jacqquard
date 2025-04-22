@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/lydyxxx" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=lydyxxx&color=1a1a1a&style=for-the-badge&labelColor=FFAE00" alt="Просмотры профиля"/>
+  <img src="https://komarev.com/ghpvc/?username=Jacqquard&color=1a1a1a&style=for-the-badge&labelColor=FFAE00" alt="Просмотры профиля"/>
 </p>
 
 ---
