@@ -64,7 +64,7 @@ int main() {
     return 0;
 }
 ```
-🛠️ Технологии
+## 🛠️ Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,selenium,postgres,mysql,sqlite,html,css,js,react,git,docker,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center">
 Категория	Технологии
 Языки	Python, JavaScript, SQL
