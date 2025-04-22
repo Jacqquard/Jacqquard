@@ -65,7 +65,7 @@ int main() {
 }
 ```
 ## 🛠️ Technologies
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,django,selenium,postgres,mysql,sqlite,html,css,js,react,git,docker,node,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center">
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,django,selenium,postgres,mysql,sqlite,html,css,js,react,git,docker,node.js,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center">
 Категория	Технологии
 Языки	Python, JavaScript, SQL
 Фреймворки	Flask, FastAPI, Aiogram, React
