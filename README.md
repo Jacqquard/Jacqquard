@@ -26,7 +26,7 @@
 
 ---
 
-## 🖥️ About me
+## 💻 About me
 
 ```python
 class Developer:
