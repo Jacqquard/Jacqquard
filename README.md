@@ -66,8 +66,8 @@ int main() {
 ```
 ## 🛠️ Technologies
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,java,postgres,mysql,sqlite,html,css,js,react,git,docker,nodejs,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center"></div>
-● **Languages**: Python, JavaScript, C++, SQL, Java<br>
-● **Frameworks**: React, Django, Flask, FastAPI<br>
+● ****Languages****: Python, JavaScript, C++, SQL, Java<br>
+● *Frameworks*: React, Django, Flask, FastAPI<br>
 ● **Parsing**: Selenium, BeautifulSoup, Requests<br>
 ● **Databases**: PostgreSQL, MySQL, SQLite<br>
 ● **Infrastructure**: Docker, Linux, Git, Node.js<br>
