@@ -78,5 +78,6 @@ int main() {
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jacqquard/Jacqquard/refs/heads/main/assets/neofetch.jpg" alt="dark aesthetic image" width="100%"/>
 </p>
+
 ## 🏆 Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jacqquard&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Трофеи"/> </p>
