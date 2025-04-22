@@ -46,11 +46,11 @@ public:
         skills = {
             {"Backend", {"Python", "С++", "Java"}},
             {"Automation", {"Selenium", "Playwright", "BeautifulSoup"}},
-            {"Базы данных", {"MySQL", "PostgreSQL", "SQLite"}},
-            {"Frontend", {"HTML/CSS", "JavaScript", "React (основы)"}},
+            {"Databases", {"MySQL", "PostgreSQL", "SQLite"}},
+            {"Frontend", {"HTML/CSS", "JavaScript", "React"}},
             {"DevOps", {"Docker", "Linux", "Git"}}
         };
-        passion = "Я НЕ НОРМАЛЬНЫЙ!";
+        passion = "Write clean, optimized code that you can be proud of";
     }
 
     friend std::ostream& operator<<(std::ostream& os, const Developer& dev) {
