@@ -41,11 +41,11 @@ private:
 
 public:
     Developer() {
-        name = "lydyxxx";
-        role = "Python-разработчик";
+        name = "Jacquard";
+        role = "Cpp-developer";
         skills = {
-            {"Backend", {"Python", "Flask", "FastAPI"}},
-            {"Автоматизация", {"Selenium", "Playwright", "BeautifulSoup"}},
+            {"Backend", {"Python", "С++", "Java"}},
+            {"Automation", {"Selenium", "Playwright", "BeautifulSoup"}},
             {"Базы данных", {"MySQL", "PostgreSQL", "SQLite"}},
             {"Frontend", {"HTML/CSS", "JavaScript", "React (основы)"}},
             {"DevOps", {"Docker", "Linux", "Git"}}
