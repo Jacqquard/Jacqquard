@@ -2,11 +2,6 @@
   <img src="https://raw.githubusercontent.com/Jacqquard/Jacqquard/refs/heads/main/assets/baner.jpg" alt="dark aesthetic banner" width="100%"/>
 </p>
 
-<h1 align="center">
-  <span style="color: #FFAE00;">𝚕𝚢𝚍𝚢𝚡𝚡𝚡</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 <p align="center">
   <span style="color: #b0b0b0; font-size: 18px; font-family: 'Courier New', monospace;">
     ███████╗██╗░░░██╗██████╗░███████╗██████╗░░░░░░░███████╗██╗░░██╗██╗░░██╗<br>
