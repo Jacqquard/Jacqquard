@@ -27,24 +27,42 @@
 ## 💻 About me
 
 ```python
-class Developer:
-    def __init__(self):
-        self.name = "lydyxxx"
-        self.role = "Python-разработчик"
-        self.skills = {
-            "Backend": ["Python", "Flask", "FastAPI"],
-            "Автоматизация": ["Selenium", "Playwright", "BeautifulSoup"],
-            "Базы данных": ["MySQL", "PostgreSQL", "SQLite"],
-            "Frontend": ["HTML/CSS", "JavaScript", "React (основы)"],
-            "DevOps": ["Docker", "Linux", "Git"]
-        }
-        self.passion = "Я НЕ НОРМАЛЬНЫЙ!"
-        
-    def __str__(self):
-        return f"{self.name} | {self.role}"
+#include <iostream>
+#include <string>
+#include <map>
+#include <vector>
 
-me = Developer()
-print(me)
+class Developer {
+private:
+    std::string name;
+    std::string role;
+    std::map<std::string, std::vector<std::string>> skills;
+    std::string passion;
+
+public:
+    Developer() {
+        name = "lydyxxx";
+        role = "Python-разработчик";
+        skills = {
+            {"Backend", {"Python", "Flask", "FastAPI"}},
+            {"Автоматизация", {"Selenium", "Playwright", "BeautifulSoup"}},
+            {"Базы данных", {"MySQL", "PostgreSQL", "SQLite"}},
+            {"Frontend", {"HTML/CSS", "JavaScript", "React (основы)"}},
+            {"DevOps", {"Docker", "Linux", "Git"}}
+        };
+        passion = "Я НЕ НОРМАЛЬНЫЙ!";
+    }
+
+    friend std::ostream& operator<<(std::ostream& os, const Developer& dev) {
+        return os << dev.name << " | " << dev.role;
+    }
+};
+
+int main() {
+    Developer me;
+    std::cout << me << std::endl;
+    return 0;
+}
 ```
 🛠️ Технологии
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,selenium,postgres,mysql,sqlite,html,css,js,react,git,docker,linux,github&theme=dark" alt="Технологический стек"/> </p> <div align="center">
