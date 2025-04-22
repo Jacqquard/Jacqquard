@@ -80,5 +80,3 @@ int main() {
 </p>
 🏆 Достижения
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Jacqquard&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Трофеи"/> </p>
-🌌 Контакты
-<p align="center"> <a href="https://t.me/jacqquard" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=1a1a1a&labelColor=FFAE00" alt="Telegram"/> </a> <a href="https://github.com/Jacqquard" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=1a1a1a&labelColor=FFAE00" alt="GitHub"/> </a> <a href="mailto:your-maslennukuvilya@gmail.com" target="_blank"> 
